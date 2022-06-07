@@ -1,0 +1,16 @@
+
+img{width: 100px;height: 100px;}
+h1{text-align:center;background: aqua;color: blue;border-color: black;border-style:solid;font-size: 30px;
+border-width: 10px;margin: 50px 2px 10px 2px;text-transform: capitalize;display: inline;}
+h2{text-shadow: 5px 5px 10px greenyellow;font-family: cursive;}
+p{line-height: 1.5em;width:500px ;height:100px;background-color: aquamarine;text-align: center;margin: 40px 5px 50px 350px;}
+body{background:url(img/print.jpg);text-align: center;}
+div.A{background: #1abc9c;margin: 5px 2px 5px 350px ;text-align: center;width: 100px;height: 25px;}
+/* div.anika{margin: 5px 2px 5px 350px} */
+img.B{width: 400px;height: 200px;margin:5px 2px 5px 20px}
+p.C{background: #9b59b6;}
+a:hover{color:black}
+div.zeba{margin-left: 10px;background: #81ecec;width: 200px;height: 120px;margin:5px 2px 5px 350px}
+div div.C{opacity: 1.0;text-align: justify;color: black;}
+div div.D{opacity: 0.5;}
+
